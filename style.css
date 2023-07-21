@@ -44,15 +44,16 @@ ul.container1,
 ul .list {
   font-size: 14px;
 }
+
 ul .list:hover {
-padding-left: 12px;
-padding-top: 14px;
-font-size: 16px;
-width: 137px;
-height: 38px;
-background: rgb(37,43,59,1) 0% 0% no-repeat padding-box;
-border-radius: 19px;
-color: #FFFFFF;
+  padding-left: 12px;
+  padding-top: 14px;
+  font-size: 16px;
+  width: 137px;
+  height: 38px;
+  background: rgb(37, 43, 59, 1) 0% 0% no-repeat padding-box;
+  border-radius: 19px;
+  color: #FFFFFF;
 }
 
 .manage {
@@ -91,6 +92,7 @@ color: #FFFFFF;
   color: #252B3B;
   opacity: 1;
 }
+
 .rightSide {
   position: absolute;
 }
@@ -594,17 +596,18 @@ color: #FFFFFF;
   color: #171B24;
   opacity: 1;
 }
- .main-contenar {
-margin-left: 0px;
+
+.main-contenar {
+  margin-left: 0px;
 }
 
 /* .main-contenar {
 
 } */
 
-.cEheading p {
+.cEheading p {}
 
-} */
+*/
 /* .project{
   
 } */
