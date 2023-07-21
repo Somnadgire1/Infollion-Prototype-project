@@ -1,0 +1,673 @@
+.rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 2149px;
+  background: rgb(245, 244, 244, 1);
+
+
+}
+
+.rectangle57 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 250px;
+  height: 1080px;
+  /* UI Properties */
+  background: rgb(100%, 100%, 100%, 100%);
+}
+
+.menu-burger {
+  margin-top: 32px;
+  margin-left: 28px;
+  width: 22px;
+  height: 16px;
+}
+
+.image3 {
+  margin-top: 18px;
+  margin-left: 50px;
+  width: 105px;
+  height: 39px;
+  /* background: transparent url('') 0% 0% no-repeat padding-box;
+opacity: 1; */
+}
+
+ul.container1,
+.container2,
+.container3,
+.container4 {
+  list-style-type: none;
+}
+
+ul .list {
+  font-size: 14px;
+}
+ul .list:hover {
+padding-left: 12px;
+padding-top: 14px;
+font-size: 16px;
+width: 137px;
+height: 38px;
+background: rgb(37,43,59,1) 0% 0% no-repeat padding-box;
+border-radius: 19px;
+color: #FFFFFF;
+}
+
+.manage {
+  margin-top: 53px;
+  margin-left: 28px;
+  font-size: 14px;
+  width: 50px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #252b3b;
+  opacity: 1;
+}
+
+.list:nth-child(2n-1) {
+  margin-top: 19px;
+  margin-left: 14px;
+  width: 100px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #252b3b;
+  opacity: 1;
+}
+
+.list:nth-child(2n) {
+  margin-top: 19px;
+  margin-left: 14px;
+  width: 100px;
+  height: 19px;
+  text-align: left;
+  font: normal normal normal 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+.rightSide {
+  position: absolute;
+}
+
+.rightSide .projectView {
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 283px;
+  width: 136px;
+  height: 33px;
+  text-align: left;
+  font: normal normal 600 25px/33px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  display: flex;
+}
+
+.rectangle3 {
+  margin-top: 21px;
+  margin-left: 165px;
+  width: 600px;
+  height: 50px;
+  background-color: rgb(111, 105, 105, 0.07);
+  border-radius: 25px;
+}
+
+.rectangle3 .text {
+  padding-left: 10px;
+  font-size: 16px;
+  width: 600px;
+  text-align: left;
+  font: normal normal 300 16px/21px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+.rectangle72 {
+  margin-top: 22px;
+  margin-left: 520px;
+  width: 183px;
+  height: 48px;
+  background-color: rgb(255, 255, 255, 1);
+  border-radius: 24px;
+  display: flex;
+}
+
+.rectangle72 .person {
+  margin-top: 8px;
+  margin-left: 25px;
+  width: 150px;
+  height: 19px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  font-size: 14px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+.midcontainer {
+  display: flex;
+  position: relative;
+}
+
+.arrow {
+
+  margin-top: 127px;
+  margin-left: 306px;
+  width: 20px;
+  height: 17px;
+  color: #000000;
+  opacity: 1;
+}
+
+.backtoProject p {
+  margin-top: 125px;
+  margin-left: 9px;
+  width: 99px;
+  height: 20px;
+  text-align: left;
+  font: normal normal 600 15px/20px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+.components .comp5 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-top: -36px;
+  margin-left: 1206px;
+  list-style: none;
+}
+
+.comp5 .comp1 {
+  padding-right: 15px;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+}
+
+.comp5 .comp1 p {
+  margin: 0px;
+  padding: 7px;
+  color: #050918;
+  background-color: rgb(112, 112, 112, 0.07);
+  border: 1px solid rgb(112, 112, 112, 0);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+.reopen {
+  margin-top: 0px;
+  margin-left: 9px;
+  width: 80px;
+  height: 36px;
+  background: rgb(255, 255, 255, 1);
+  border-radius: 32px;
+}
+
+.reopen p {
+  font-size: 14px;
+  padding-top: 0px;
+  padding-left: 18px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: rgb(79, 178, 156, 1);
+}
+
+.closeproject {
+  margin-left: 12px;
+  width: 120px;
+  height: 36px;
+  background: rgb(255, 255, 255, 1);
+  border-radius: 32px;
+}
+
+.closeproject p {
+  font-size: 14px;
+  padding-top: 0px;
+  padding-left: 15px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: rgb(201, 27, 27, 1);
+}
+
+.x {
+
+  margin-top: 25px;
+  margin-left: 283px;
+  width: 1593px;
+  height: 440px;
+  background: rgb(255, 255, 255, 1);
+  border: 2px solid rgb(255, 255, 255, 1);
+  border-radius: 15px;
+}
+
+.rectangle67 {
+  display: flex;
+}
+
+.project1 p {
+  margin-top: 35px;
+  margin-left: 44px;
+  font-size: 32px;
+  width: 259px;
+  height: 43px;
+  text-align: left;
+  font: normal normal 600 32px/43px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+.rectangle195 {
+  margin-top: 25px;
+  margin-left: 397px;
+  width: 190px;
+  height: 68px;
+  background: rgb(24, 168, 72, 0.1);
+  border-radius: 15px;
+}
+
+.rectangle195 .revenue span {
+  font-size: 14px;
+  padding-top: 11px;
+  padding-left: 31px;
+  width: 52px;
+  height: 19px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #18A848;
+  opacity: 1;
+}
+
+.rectangle195 .first {
+  padding-left: 31px;
+  margin-top: -11px;
+  font-size: 22px;
+  width: 88px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 22px/30px Montserrat;
+  letter-spacing: 0px;
+  color: #18A848;
+  opacity: 1;
+}
+
+.rectangle196 {
+  margin-top: 25px;
+  margin-left: 36px;
+  width: 190px;
+  height: 68px;
+  background: rgb(107, 87, 115, 0.1);
+  border-radius: 15px;
+}
+
+.rectangle196 .calls span {
+  font-size: 14px;
+  padding-top: 11px;
+  padding-left: 31px;
+  width: 29px;
+  height: 19px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #6B5773;
+  opacity: 1;
+}
+
+.rectangle196 .second {
+  padding-left: 31px;
+  margin-top: -11px;
+  font-size: 22px;
+  width: 36px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 22px/30px Montserrat;
+  letter-spacing: 0px;
+  color: #6B5773;
+  opacity: 1;
+}
+
+.rectangle197 {
+  margin-top: 25px;
+  margin-left: 38px;
+  width: 190px;
+  height: 68px;
+  background: rgb(123, 141, 163, 0.1);
+  border-radius: 15px;
+}
+
+
+.rectangle197 .status span {
+  font-size: 14px;
+  padding-top: 11px;
+  padding-left: 31px;
+  width: 37px;
+  height: 19px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #4D627C;
+  opacity: 1;
+}
+
+.rectangle197 .third {
+  padding-left: 31px;
+  margin-top: -11px;
+  font-size: 22px;
+  width: 59px;
+  height: 30px;
+  text-align: left;
+  font: normal normal 600 22px/30px Montserrat;
+  letter-spacing: 0px;
+  color: #4D627C;
+  opacity: 1;
+}
+
+.pencilBox {
+  text-align: center;
+  margin-top: 37px;
+  margin-left: 180px;
+  width: 46px;
+  height: 46px;
+  background: rgb(245, 244, 244, 1);
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+
+.project1 .projectId .bag {
+
+  margin-top: -32px;
+  margin-left: 44px;
+  font-size: 15px;
+  /* background:rgb(245,244,244,0.57); */
+  opacity: 0.7;
+}
+
+.project1 .idNumber {
+  margin-top: -57px;
+  margin-left: 65px;
+  font-size: 15px;
+  text-align: left;
+  font: normal normal medium 15px/20px Montserrat;
+  letter-spacing: 0px;
+  color: #1A3888;
+  opacity: 1;
+}
+
+.projectProcess table {
+  margin-top: 25px;
+  margin-left: 44px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+.projectProcess td {
+  border: none;
+  text-align: left;
+  padding: 8px;
+  font-size: 16px;
+  text-align: left;
+  font: normal normal normal 16px/21px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+.projectProcess .plus {
+  width: 21px;
+  height: 21px;
+  background: rgb(236, 147, 36.1);
+  border-radius: 32px;
+}
+
+.projectProcess .plus span {
+  padding: 5px;
+  width: 21px;
+  height: 21px;
+  text-align: left;
+  font: normal normal medium 30px/40px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.pe-mapping {
+
+  margin-top: 42px;
+  margin-left: 0px;
+  width: 1593px;
+  height: 384px;
+  background: rgb(255, 255, 255, 0.78);
+  border-radius: 15px;
+}
+
+.pEheading {
+  display: flex;
+}
+
+.pEheading p {
+  margin-top: 20px;
+  margin-left: 44px;
+  font-size: 24px;
+  width: 150px;
+  height: 32px;
+  text-align: left;
+  font: normal normal 600 24px/32px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+.grid-container {
+  display: grid;
+  margin-top: -15px;
+  margin-left: 44px;
+  grid-template-columns: auto auto auto auto auto;
+  gap: 1px;
+  padding: 10px;
+}
+
+.gr p {
+  text-align: left;
+  padding-top: 2px;
+  padding-left: 15px;
+  margin-left: 40px;
+  width: 186px;
+  height: 28px;
+  background: rgb(255, 255, 255, 1) no-repeat padding-box;
+  box-shadow: 0px 0px 2px #00000096;
+  border-radius: 19px;
+}
+
+.grid-container>.grid {
+  text-align: center;
+  padding-top: 5px;
+  width: 270px;
+  height: 35px;
+  color: #FFFFFF;
+  font-size: 18px;
+  background: no-repeat padding-box;
+  border-radius: 29px;
+  opacity: 1;
+}
+
+.grid-container>.gr {
+  width: 282px;
+  height: 240px;
+  background: rgb(184, 155, 113, 0.06) no-repeat padding-box;
+  border-radius: 15px;
+}
+
+.gr span {
+  font-size: 14px;
+  width: 80px;
+  height: 19px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #171B24;
+  opacity: 1;
+}
+
+.ce-mapping {
+  margin-top: 42px;
+  width: 1593px;
+  height: 384px;
+  background: rgb(255, 255, 255, 0.78);
+  border-radius: 15px;
+}
+
+.cEheading {
+  display: flex;
+}
+
+.cEheading p {
+  margin-top: 20px;
+  margin-left: 44px;
+  font-size: 24px;
+  width: 150px;
+  height: 32px;
+  text-align: left;
+  font: normal normal 600 24px/32px Montserrat;
+  letter-spacing: 0px;
+  color: #252B3B;
+  opacity: 1;
+}
+
+
+.cgr p {
+  text-align: left;
+  padding-top: 2px;
+  padding-left: 15px;
+  margin-left: 40px;
+  width: 186px;
+  height: 28px;
+  background: rgb(255, 255, 255, 1) no-repeat padding-box;
+  box-shadow: 0px 0px 2px #00000096;
+  border-radius: 19px;
+}
+
+.grid-container>.cgrid {
+  text-align: center;
+  padding-top: 8px;
+  width: 270px;
+  height: 35px;
+  color: #FFFFFF;
+  font-size: 16px;
+  background: no-repeat padding-box;
+  border-radius: 29px;
+}
+
+.grid-container>.cgr {
+  width: 282px;
+  height: 240px;
+  background: rgb(184, 155, 113, 0.06) no-repeat padding-box;
+  border-radius: 15px;
+}
+
+.cgr span {
+  width: 60px;
+  height: 19px;
+  text-align: left;
+  font: normal normal medium 14px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #171B24;
+  opacity: 1;
+}
+ .main-contenar {
+margin-left: 0px;
+}
+
+/* .main-contenar {
+
+} */
+
+.cEheading p {
+
+} */
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ce-mapping {
+  margin-top: 23px;
+  margin-left: 283px;
+  width: 1593px;
+  height: 383px;
+  background: rgb(255, 255, 255, 0.78);
+  border-radius: 15px;
+}
+
+
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
+
+/* .project{
+  
+} */
